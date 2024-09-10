@@ -15,3 +15,15 @@ assync function addNewDoggo(){
 ```
 ## popmotion 
 `https://popmotion.io/`
+
+# This help build the project 
+```js
+
+npm install --global pracel
+
+parcel index.html
+
+npm install popmotion@11
+
+parcel index.html
+```
