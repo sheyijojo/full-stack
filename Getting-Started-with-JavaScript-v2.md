@@ -84,3 +84,25 @@ var left = timeRemaining(43, 23);
 left;
 
 ```
+
+## Three Pillas of JS
+
+- Primitiive types
+- converting types
+- checking Equalities
+
+
+I JS, everything is an object - This is 100% false.
+
+**primitive types**
+- undefined is an empty type
+- string
+- number
+- boolean
+- symbol
+- null is special type
+
+
+**Object type**
+- function is a subtype of the object type
+- Arrays are subtype of the object type
