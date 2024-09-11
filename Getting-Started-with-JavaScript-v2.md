@@ -4,6 +4,7 @@ run.js
 
 Kyle Simpson 
 
+https://github.com/getify/you-dont-know-js
 ```js
 typrof 42
 
@@ -106,3 +107,41 @@ I JS, everything is an object - This is 100% false.
 **Object type**
 - function is a subtype of the object type
 - Arrays are subtype of the object type
+
+## new with fundamental objects
+**Use new:
+- Object()
+- Array()
+- Function()
+- Date()
+- RegExp()
+- Error()
+  
+**Don't Use New:
+- String()
+- Number()
+- Boolean()
+
+```js
+//using new in front of one of the constructor forms of a fundamental object
+var yesterday = new Date("March 6, 2019");
+yesterday.toUTCString();
+
+var myGPA = String(transcipt.gpa);
+```
+
+## Coercion: 
+The way to convert from one type to another: coercion 
+E.g: 
+- string concatenation
+
+```js
+var msg1 = "There are ";
+var numStudents = 16;
+var msg2 = " students.";
+console.log(msg1 + numStudents + msg2);
+
+// "There are 16 students."
+```
+
+falsy and truthy values
