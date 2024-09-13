@@ -2,6 +2,8 @@
 https://github.com/ALT-F4-LLC
 
 
+`bitwarden` - free password manager
+
 https://github.com/ALT-F4-LLC/fem-eci-terraform-tfe
 
 - check the branches 
