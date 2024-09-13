@@ -1,6 +1,10 @@
 ## Infra course materla 
 https://github.com/ALT-F4-LLC
 
+## use github cli to authenticate 
+
+gh auth 
+
 
 `bitwarden` - free password manager
 
