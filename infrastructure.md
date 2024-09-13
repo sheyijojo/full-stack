@@ -4,7 +4,7 @@ https://github.com/ALT-F4-LLC
 
 https://github.com/ALT-F4-LLC/fem-eci-terraform-tfe
 
-
+- check the branches 
 
 ## Doppler
 
@@ -18,5 +18,8 @@ https://www.doppler.com/?gad_source=1&gclid=CjwKCAjwxY-3BhAuEiwAu7Y6s3Li-bKl-0Gy
 
 Imitate what aws does
 
-
 - https://www.localstack.cloud/
+
+- `doppler run --project "" --config "" -- aws s3 ls `
+
+`doppler run --config "nixos" --project "erikreunert" -- aws s3 ls`
