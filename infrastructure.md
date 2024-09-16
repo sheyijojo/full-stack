@@ -6,6 +6,11 @@ https://github.com/ALT-F4-LLC
 
 `https://neovim.io/`
 
+https://www.josean.com/posts/how-to-setup-neovim-2024
+
+
+https://iterm2.com/
+
 ## use github cli to authenticate 
 
 gh auth 
