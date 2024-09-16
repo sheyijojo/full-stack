@@ -1,6 +1,11 @@
 ## Infra course materla 
 https://github.com/ALT-F4-LLC
 
+
+## NVIM  Code Editor
+
+`https://neovim.io/`
+
 ## use github cli to authenticate 
 
 gh auth 
